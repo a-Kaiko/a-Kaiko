@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @a-Kaiko
+- 👀 I’m interested in games, manga et programming 
+- 🌱 I’m currently learning PHP and Java
+- 😄 Pronouns: she/her
